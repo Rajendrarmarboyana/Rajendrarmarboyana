@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660129071278",
+    "project_id": "rajendra-car-rental",
+    "storage_bucket": "rajendra-car-rental.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660129071278:android:e63b085516ce040259ad3f",
+        "android_client_info": {
+          "package_name": "com.example.rajendracarrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660129071278-2opkj46g3ddh8lljghndbmvr7bm6kshq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajendracarrental",
+            "certificate_hash": "3dbf18e8043ab9d646e257df6295422fe97582ea"
+          }
+        },
+        {
+          "client_id": "660129071278-tknvi3klucbn5676m68mqmpdm80gd3ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhWIuPeqNQkPJOwI4lBf2ToQ3k2h0CrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660129071278-tknvi3klucbn5676m68mqmpdm80gd3ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

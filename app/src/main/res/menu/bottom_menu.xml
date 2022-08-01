@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/booking"
+        android:title="Booking"
+        android:icon="@drawable/ic_booking"/>
+    <item
+        android:id="@+id/rental"
+        android:title="Rent Car"
+        android:icon="@drawable/ic_rentcar"/>
+    <item
+        android:id="@+id/contact"
+        android:title="Contact Us"
+        android:icon="@drawable/ic_contactus"/>
+    <item
+        android:id="@+id/logout"
+        android:title="LogOut"
+        android:icon="@drawable/ic_logout"/>
+</menu>
